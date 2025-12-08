@@ -17,7 +17,7 @@ index 000000000000..f5bca1bdaf69
 @@ -0,0 +1,1037 @@
 +# Enable FPDT on supported platforms
 +CONFIG_ACPI_FPDT=y
-+
++CONFIG_VSOCKETS=y
 +# KEYBOARD_GPIO_POLLED: Used by Radxa Zero 2's power button
 +CONFIG_KEYBOARD_GPIO_POLLED=m
 +
